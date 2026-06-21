@@ -14,5 +14,5 @@
   "documentation": "https://github.com/jakub-hajek/alpicool-esp32-mqtt",
   "iot_class": "local_polling",
   "requirements": ["bleak-retry-connector>=3.5.0"],
-  "version": "0.3.1"
+  "version": "0.3.2"
 }

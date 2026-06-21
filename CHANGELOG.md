@@ -2,6 +2,15 @@
 
 Alle nennenswerten Änderungen an dieser Integration werden hier dokumentiert.
 
+## [0.3.2] - 2026-06-21
+
+### Fixed
+- Kein Code-Fix – reiner Re-Release. v0.3.1 wurde versehentlich nur als gezippte
+  Release-Asset-Datei hochgeladen statt als entpackter Repo-Inhalt, weshalb HACS
+  die Struktur nicht erkennen konnte. v0.3.2 enthält keine inhaltlichen Änderungen
+  gegenüber v0.3.1, nur den Hinweis, die Dateien diesmal entpackt direkt ins
+  Repo-Root zu committen.
+
 ## [0.3.1] - 2026-06-21
 
 ### Fixed
