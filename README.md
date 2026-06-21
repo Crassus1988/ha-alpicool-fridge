@@ -1,7 +1,7 @@
 # Alpicool / ICECO Fridge – Home Assistant BLE Integration
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
-![Version](https://img.shields.io/badge/version-0.2.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.3.2-blue.svg)
 
 <img src="icon.png" width="96" align="right" alt="icon">
 
