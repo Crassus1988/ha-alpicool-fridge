@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Alpicool Kühlschrank auswählen",
+        "data": { "address": "Gerät" }
+      },
+      "confirm": {
+        "title": "Alpicool Kühlschrank hinzufügen",
+        "description": "Kühlschrank \"{name}\" gefunden. Hinzufügen?"
+      }
+    },
+    "abort": {
+      "no_devices_found": "Keine Alpicool-Kühlschränke in Bluetooth-Reichweite gefunden.",
+      "not_supported": "Dieses Gerät wird nicht unterstützt.",
+      "already_configured": "Gerät ist bereits konfiguriert."
+    }
+  }
+}
